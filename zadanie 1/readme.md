@@ -1,0 +1,1 @@
+W tym zadaniu do wykonania było wyliczanie miejsc zerowych funkcji kwadratowej.
