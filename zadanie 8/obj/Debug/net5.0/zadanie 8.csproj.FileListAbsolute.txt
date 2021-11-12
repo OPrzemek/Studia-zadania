@@ -1,0 +1,16 @@
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.exe
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.deps.json
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.runtimeconfig.json
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.runtimeconfig.dev.json
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.dll
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\ref\zadanie 8.dll
+C:\Users\emdem\Desktop\zadanie 8\bin\Debug\net5.0\zadanie 8.pdb
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.csproj.AssemblyReference.cache
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.AssemblyInfoInputs.cache
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.AssemblyInfo.cs
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.csproj.CoreCompileInputs.cache
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.dll
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\ref\zadanie 8.dll
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.pdb
+C:\Users\emdem\Desktop\zadanie 8\obj\Debug\net5.0\zadanie 8.genruntimeconfig.cache
