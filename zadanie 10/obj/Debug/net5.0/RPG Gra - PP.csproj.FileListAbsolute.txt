@@ -1,0 +1,16 @@
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.exe
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.deps.json
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.runtimeconfig.json
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.runtimeconfig.dev.json
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.dll
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\ref\RPG Gra - PP.dll
+C:\Users\emdem\Desktop\RPG Gra - PP\bin\Debug\net5.0\RPG Gra - PP.pdb
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.csproj.AssemblyReference.cache
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.AssemblyInfoInputs.cache
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.AssemblyInfo.cs
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.csproj.CoreCompileInputs.cache
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.dll
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\ref\RPG Gra - PP.dll
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.pdb
+C:\Users\emdem\Desktop\RPG Gra - PP\obj\Debug\net5.0\RPG Gra - PP.genruntimeconfig.cache
