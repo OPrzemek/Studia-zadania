@@ -1,0 +1,39 @@
+Bohaterowie:
+
+>Wspólne wartości
+-Imię
+-Siła
+-Zręczność
+-Zdrowie
+-Stamina
+-Klasa
+-Oszołomienie
+
+>Osobne wartosci
+-Wojownik
++Złość (wzrasta, im niższy poziom zdrowia)
+-Skrytobójca
++Energia (zmniejsza się, im więcej razy zaatakował podwójnie)
+-Mag
++Mana (zmniejsza się, im częściej używa zaklęć)
+
+Umiejętności klas:
+
+>Wspólna umiejętność
+-Zwykły Atak
+-Odpoczynek
+
+>Wojownik
+-Atak mieczem
+-Atak buzdyganem
+-Pchnięcie
+
+>Skrytobójca
+-Rzut shurikenem
+-Atak krótkimi mieczami
+-Podwójny atak
+
+>Mag
+-Magiczny pocisk
+-Kula ognia
+-Zamrożenie
